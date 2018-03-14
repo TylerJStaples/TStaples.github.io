@@ -2,9 +2,12 @@ body {
     background-color: #717477;
 }
 .container{
-    margin: 25px, 20px, 20px, 20px;
+    margin: 20px;
 }
 #image{
     float: left;
-    padding: 10px;
+    margin-top: 10px;
+}#text{
+    margin-left: 20px;
+    padding: 20px;
 }
