@@ -1,0 +1,10 @@
+body {
+    background-color: #717477;
+}
+.container{
+    margin: 25px, 20px, 20px, 20px;
+}
+#image{
+    float: left;
+    padding: 10px;
+}
